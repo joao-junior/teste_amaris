@@ -36,4 +36,4 @@ Para executar o servidor em modo de desenvolvimento nós usamos o comando:
 
 ## Como Testar
 
-Para testar a aplicação baixe e instale o [Swager](http://localhost:3333/api-docs)
+Para testar a aplicação [Swager](http://localhost:3333/api-docs)
