@@ -92,6 +92,9 @@ pokemonRouter.use(authMiddlewares);
  *              type:
  *                type: string,
  *                example: Water
+ *              pokemonId:
+ *                type: integer
+ *                example: 1
  *      responses:
  *        '200':
  *          description: Update pokemon success

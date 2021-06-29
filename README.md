@@ -37,3 +37,5 @@ Para executar o servidor em modo de desenvolvimento nós usamos o comando:
 ## Como Testar
 
 Para testar a aplicação [Swager](http://localhost:3333/api-docs)
+ou baixe e instale o [Insomnia](https://insomnia.rest/download/), 
+importe os dados do arquivo **Insomnia_2021-06-29.json**.
